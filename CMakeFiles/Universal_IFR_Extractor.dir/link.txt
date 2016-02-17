@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -Wall -Wextra -Wpedantic   CMakeFiles/Universal_IFR_Extractor.dir/EFI.cpp.o CMakeFiles/Universal_IFR_Extractor.dir/UEFI.cpp.o CMakeFiles/Universal_IFR_Extractor.dir/main.cpp.o  -o Universal_IFR_Extractor -rdynamic 
