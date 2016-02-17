@@ -1,3 +1,7 @@
+INFO: Quick & Dirty Port to cmdline tool with cmake support.
+Thank goes to donovan6000 for the orginal Windows Version.
+
+
 Universal IFR Extractor
 =======================
 
